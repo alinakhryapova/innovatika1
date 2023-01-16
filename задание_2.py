@@ -11,3 +11,5 @@ Original file is located at
 # https://www.codewars.com/kata/reviews/545d21e99943f78e6d0000df/groups/545d29831288c1e3670009c8
 def string_to_number(s):
     return int(s)
+
+# Выполнено
